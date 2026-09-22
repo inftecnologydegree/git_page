@@ -1,3 +1,3 @@
 Bird Brothers
 
-Play at: https://inftecnologydegree.github.io/libgdx-game/
+Play the game: https://inftecnologydegree.github.io/brothers-birdlgdx/
